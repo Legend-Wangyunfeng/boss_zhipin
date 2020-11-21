@@ -1,0 +1,57 @@
+[
+  {
+    "categories": "经验",
+    "options": [
+      {"text": "不限", "id": null},
+      {"text": "在校生", "id": 1},
+      {"text": "应届生", "id": 2},
+      {"text": "1年以内", "id": 3},
+      {"text": "3-5年", "id": 4},
+      {"text": "5-10年", "id": 4}
+    ]
+  },
+  {
+    "categories": "学历",
+    "options": [
+      {"text": "不限", "id": null},
+      {"text": "初中及以下", "id": 1},
+      {"text": "中专/中技", "id": 2},
+      {"text": "高中", "id": 3},
+      {"text": "大专", "id": 4},
+      {"text": "本科", "id": 5}
+    ]
+  },
+  {
+    "categories": "薪资",
+    "options": [
+      {"text": "不限", "id": null},
+      {"text": "3K以下", "id": 1},
+      {"text": "3-5K", "id": 2},
+      {"text": "5-10K", "id": 3},
+      {"text": "10-15K", "id": 4},
+      {"text": "15-20K", "id": 5}
+    ]
+  },
+  {
+    "categories": "规模",
+    "options": [
+      {"text": "不限", "id": null},
+      {"text": "0-20人", "id": 1},
+      {"text": "20-90人", "id": 2},
+      {"text": "100-499人", "id": 3},
+      {"text": "500-999人", "id": 4},
+      {"text": "1000-9999人", "id": 5}
+    ]
+  },
+  {
+    "categories": "融资",
+    "options": [
+      {"text": "不限", "id": null},
+      {"text": "未融资", "id": 1},
+      {"text": "天使轮", "id": 2},
+      {"text": "A轮", "id": 3},
+      {"text": "B轮", "id": 4},
+      {"text": "C轮", "id": 5}
+    ]
+  }
+]

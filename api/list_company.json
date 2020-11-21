@@ -1,0 +1,44 @@
+[
+  {
+    "company": "蚂蚁金服",
+    "image": "/mayi.jpg",
+    "title": "Java",
+    "salary":  "20-40K",
+    "tags": ["杭州","3-5年","本科"]
+  },
+  {
+    "company": "网易",
+    "image": "/netease.jpg",
+    "title": "资深Java开发工程师",
+    "salary":  "25-50K",
+    "tags": ["杭州","3-5年","本科"]
+  },
+  {
+    "company": "滴滴出行",
+    "image": "/didi.jpg",
+    "title": "Java",
+    "salary":  "25-50K",
+    "tags": ["杭州","3-5年","本科"]
+  },
+  {
+    "company": "同花顺",
+    "image": "/tonghuashun.jpg",
+    "title": "Java-web开发工程师",
+    "salary":  "15-30K",
+    "tags": ["杭州","3-5年","本科"]
+  },
+  {
+    "company": "天猫",
+    "image": "/tmall.jpg",
+    "title": "Java",
+    "salary":  "30-50K",
+    "tags": ["杭州","3-5年","本科"]
+  },
+  {
+    "company": "杭州海康威视",
+    "image": "/hik.jpg",
+    "title": "Java项目经理",
+    "salary":  "18-25K",
+    "tags": ["杭州","5-10年","本科"]
+  }
+]
